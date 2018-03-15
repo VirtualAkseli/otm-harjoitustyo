@@ -1,0 +1,10 @@
+ git log --stat|cat
+commit 54bb95ddb0b04329a19bafe164f4f0cce6a86f37
+Author: Axolotl <virtualakseli@gmail.com>
+Date:   Thu Mar 15 13:39:11 2018 +0200
+
+    initial commit
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
