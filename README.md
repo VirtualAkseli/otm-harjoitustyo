@@ -1,4 +1,7 @@
-# Uljas otsikko
+# OTM-Harjoitustyö - Sudoku+
 
-### Tässä hieman täytetekstiä tähän malliin. **Niin**!
->Tekstin todellinen luonne selviää sanoista, ja niiden järjestyksestä. Kiitos.
+### Sovelluksen kuvaus ja tiedot. **Niin**!
+>Sovellus tulee sisältämään sudoku pelin toiminnallisuudella lisätä omia sudokupohjia. Sudoku kertoo, mikäli tarjottu ratkaisu on oikein
+
+### Dokumentointi
+[Määrittelydokumentti](https://github.com/VirtualAkseli/otm-harjoitustyo/blob/master/dokumentointi/m%C3%A4%C3%A4rittelydokumentti.md)
